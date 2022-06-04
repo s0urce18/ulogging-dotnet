@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OD1wO7sJrBvo8R4A/ROOn1UF+H4rCYR+MulpLfLNRtHyGyKupFJU7J+nO5gqrW6nmMF7wpkbmcNUjN4m7exN+g==",
+  "dgSpecHash": "SDR/ptPk+77YmJSi18GFv9beHJIn3ewQKGzNOoj1W/vfIiLAA94ejxZ5KdiAqboc0IyZnVFhAdVJeQWP35hAnQ==",
   "success": true,
-  "projectFilePath": "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Ulogging\\Ulogging.csproj",
+  "projectFilePath": "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Ulogging\\Ulogging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

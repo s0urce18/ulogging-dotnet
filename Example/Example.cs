@@ -33,8 +33,10 @@ namespace Base
 
 /*
 Output:
-1. 04.06.2022 7:54:47 <TEST>
-2. 04.06.2022 7:54:47 [ALL OK] <Func1>(1){1} ~NO ERRORS~
-3. 04.06.2022 7:54:47 [ERROR (LOW IMPORTANCE)] <Func2>(1) ~ERROR: Attempted to divide by zero.~
-4. 04.06.2022 7:54:47 [ERROR (!!!HIGH IMPORTANCE!!!)] <Func3>(1) ~ERROR: Attempted to divide by zero.~
+****************************************************************************************************
+WORKING STARTED: 04.06.2022 9:14:02
+1. 04.06.2022 9:14:02 <TEST>
+2. 04.06.2022 9:14:02 [ALL OK] <Func1>(1){1} ~NO ERRORS~
+3. 04.06.2022 9:14:02 [ERROR (LOW IMPORTANCE)] <Func2>(1) ~ERROR: Attempted to divide by zero.~
+4. 04.06.2022 9:14:02 [ERROR (!!!HIGH IMPORTANCE!!!)] <Func3>(1) ~ERROR: Attempted to divide by zero.~
 */

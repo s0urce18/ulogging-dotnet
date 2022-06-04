@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 
 namespace Ulogging
 {
@@ -43,6 +44,10 @@ namespace Ulogging
             this.ErrRecFormat = errRecFormat;
             this.HereRecFormat = hereRecFormat;
             this.NoPrint = noPrint;
+            this.File.WriteLine(String.Concat(Enumerable.Repeat("*", 100)));
+            Console.WriteLine(String.Concat(Enumerable.Repeat("*", 100)));
+            this.File.WriteLine($"WORKING STARTED: {DateTime.Now}");
+            Console.WriteLine($"WORKING STARTED: {DateTime.Now}");            
         }
 
         // low importance action

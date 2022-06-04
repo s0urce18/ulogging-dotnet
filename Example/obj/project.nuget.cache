@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QEmBM8/4j9Hv9zmTlZNetYQryN8yLZ1U4BkK1U5KrnahdqbKr24QF4ca6OFaOd+Lf5HeItmVimVXZrX/4kTjDw==",
+  "dgSpecHash": "pxDS8FiXnb0oYRC9uKcKZQxbZpdDS/v15n+chiFEYNlthFLR8T5/LeVUsC3IsfpsP212QBe29PckuDAiwKftmg==",
   "success": true,
-  "projectFilePath": "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
+  "projectFilePath": "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

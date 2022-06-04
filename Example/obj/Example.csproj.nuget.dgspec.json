@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj": {}
+    "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj": {
+    "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
+        "projectUniqueName": "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
+        "projectPath": "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\Example.csproj",
         "packagesPath": "C:\\Users\\boyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\obj\\",
+        "outputPath": "c:\\Works\\myDotNetModules\\ulogging-dotnet\\Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boyar\\AppData\\Roaming\\NuGet\\NuGet.Config"
