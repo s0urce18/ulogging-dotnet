@@ -29,4 +29,4 @@ Download `.dll` files from `DLLs` folder or download `DLLs.zip`
 
 `File.Close();` — closing output file (DON'T FORGET ABOUT PUTTING IT TO END OF A FILE)
 
-And other documentation in `Ulogging/Ulogging.cs` and examples in `examples.py`
+And other documentation in `Ulogging/Ulogging.cs` and examples in `Example/Example.cs`
