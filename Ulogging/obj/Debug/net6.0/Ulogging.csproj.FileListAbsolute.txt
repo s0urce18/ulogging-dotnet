@@ -1,0 +1,10 @@
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\bin\Debug\net6.0\Ulogging.deps.json
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\bin\Debug\net6.0\Ulogging.dll
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\bin\Debug\net6.0\Ulogging.pdb
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\Ulogging.csproj.AssemblyReference.cache
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\Ulogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\Ulogging.csproj.CoreCompileInputs.cache
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\Ulogging.dll
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\refint\Ulogging.dll
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\Ulogging.pdb
+C:\Works\myDotNetModules\ulogging-dotnet\Ulogging\obj\Debug\net6.0\ref\Ulogging.dll
